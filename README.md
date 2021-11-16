@@ -1,15 +1,6 @@
 # 新手向：前端程序员必学基本技能——调试JS代码
 
 ## 1. 前言
-
->大家好，我是[若川](https://lxchuan12.gitee.io)。欢迎关注我的[公众号若川视野](https://lxchuan12.gitee.io)，最近组织了[源码共读活动](https://juejin.cn/pin/7005372623400435725)，感兴趣的可以加我微信 [ruochuan12](https://juejin.cn/pin/7005372623400435725) 参与，如今已进行三个月，大家一起交流学习，共同进步，很多人都表示收获颇丰。
-
-想学源码，极力推荐之前我写的[《学习源码整体架构系列》](https://juejin.cn/column/6960551178908205093) 包含`jQuery`、`underscore`、`lodash`、`vuex`、`sentry`、`axios`、`redux`、`koa`、`vue-devtools`、`vuex4`、`koa-compose`、`vue 3.2 发布`、`vue-this`、`create-vue`、`玩具vite`等10余篇源码文章。
-
-最近组织了[源码共读活动](https://juejin.cn/pin/7005372623400435725)，公众号：若川视野，回复"源码"参与，每周大家一起学习200行左右的源码，共同进步。常有小伙伴在微信群里提关于如何调试的问题，而我写的调试方法基本分散在其他文章中。所以特此写一篇关于调试的文章。此外，之后写文章也可以少写些调试相关的，只需持续更新这篇文章。
-
-[本文仓库地址，求个`star`](https://github.com/lxchuan12/nodejs-debugging.git)
-
 阅读本文，你将学到：
 
 ```bash
